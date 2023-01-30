@@ -1,7 +1,7 @@
 
 # My Own chatGpt
 
-I have attempted to create my own chatGPT app using Vanilla JavaScript, Node js, Express, OpenAi. I was thinking we can work with OpenAi API. So I give a try. 
+I have attempted to create my own chatGPT app using Vanilla JavaScript, Node js, Express, OpenAi. I was thinking how we can work with OpenAi API. So I give a try. 
 ## Demo live link
 
 [ChatGPT-client side](https://own-chatgpt.vercel.app/)</br>
