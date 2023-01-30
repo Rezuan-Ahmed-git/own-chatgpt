@@ -4,7 +4,7 @@
 I have attempted to create my own chatGPT app using Vanilla JavaScript, Node js, Express, OpenAi. I was thinking we can work with OpenAi API. So I give a try. 
 ## Demo live link
 
-[ChatGPT-client side](https://own-chatgpt.vercel.app/)
+[ChatGPT-client side](https://own-chatgpt.vercel.app/)</br>
 [ChatGPT-server side](https://own-chatgpt-tdfw.onrender.com/)
 
 ## Installation
@@ -16,7 +16,7 @@ Install my-project with npm. You have to run the command for both the Client sid
 ```
 
 ## Hosted on
-Frontend - Vercel
+Frontend - Vercel </br>
 Backend - Render
 
 ## Lessons Learned
